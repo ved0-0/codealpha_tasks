@@ -26,13 +26,8 @@ A simple stock portfolio tracker that calculates the total investment based on p
 - User input and output
 - Conditional statements
 
-### Task 3
-Add your Task 3 name and a short description here.
 
-**Concepts used:**
-- Add the concepts used in Task 3
-
-### Task 4 - Basic Chatbot
+### Task 3 - Basic Chatbot
 A simple rule-based chatbot that responds to predefined user messages such as "hello", "how are you", and "bye".
 
 **Concepts used:**
